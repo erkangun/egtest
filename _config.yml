@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "Erkan Gün"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Toronto, Canada"
-  email            : "erkan.gun@mail.utoronto.ca"
+  bio              : "PhD Candidate, Geodynamics"
+  location         : "Department of Earth Sciences, University of Toronto"
+  email            : #"erkan.gun@mail.utoronto.ca"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
